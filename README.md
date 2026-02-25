@@ -21,6 +21,19 @@ The result is a closed-loop, human-in-the-loop framework for personalized stress
 
 ---
 
+## Key Features
+
+* Real-time physiological stress detection
+* Entropy-based uncertainty quantification
+* Active Learning personalization
+* LLM-based conversational feedback
+* Human-in-the-loop adaptive framework
+
+## System Architecture
+<img width="577" height="348" alt="image" src="https://github.com/user-attachments/assets/527b0b60-6f12-40ea-91d5-9f16d8097559" />
+
+---
+
 ## [Real-Time Monitoring](https://github.com/prachi0711/Stress-Management-using-Active-Learning/blob/main/real_time_monitoring/README.md)
 
 The system processes physiological signals such as:
@@ -88,18 +101,7 @@ This transforms the system from a passive detector into an interactive stress as
 
 ---
 
-## System Architecture
-<img width="577" height="348" alt="image" src="https://github.com/user-attachments/assets/527b0b60-6f12-40ea-91d5-9f16d8097559" />
-
----
-
-## Key Features
-
-* Real-time physiological stress detection
-* Entropy-based uncertainty quantification
-* Active Learning personalization
-* LLM-based conversational feedback
-* Human-in-the-loop adaptive framework
+For further informantion; please refer the following [report]()
 
 
 
