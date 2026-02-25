@@ -21,7 +21,7 @@ The result is a closed-loop, human-in-the-loop framework for personalized stress
 
 ---
 
-## Real-Time Monitoring
+## [Real-Time Monitoring]()
 
 The system processes physiological signals such as:
 
@@ -41,10 +41,10 @@ The system can operate on:
 * Simulated streams
 * Real-time wearable data (e.g., Emotibit)
 
-[Real Time Stress Monitoring]()
+
 ---
 
-## Active Learning
+## [Active Learning]()
 
 A key contribution of this project is uncertainty-driven personalization.
 
@@ -66,10 +66,9 @@ User feedback is then:
 
 This reduces the need for large labeled datasets and adapts to individual physiological differences.
 
-[Active Learning]()
 ---
 
-## Dialogue Manager
+## [Dialogue Manager]()
 
 When uncertainty is high, the system does not issue a rigid alert.
 Instead, it triggers a natural language interaction powered by a Large Language Model (LLM).
@@ -87,7 +86,6 @@ The dialogue manager:
 
 This transforms the system from a passive detector into an interactive stress assistant.
 
-[Dialogue Manager]()
 ---
 
 ## System Architecture
