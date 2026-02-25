@@ -21,7 +21,7 @@ The result is a closed-loop, human-in-the-loop framework for personalized stress
 
 ---
 
-## [Real-Time Monitoring]()
+## [Real-Time Monitoring](https://github.com/prachi0711/Stress-Management-using-Active-Learning/blob/main/real_time_monitoring/README.md)
 
 The system processes physiological signals such as:
 
@@ -44,7 +44,7 @@ The system can operate on:
 
 ---
 
-## [Active Learning]()
+## [Active Learning](https://github.com/prachi0711/Stress-Management-using-Active-Learning/blob/main/active_learning/README.md)
 
 A key contribution of this project is uncertainty-driven personalization.
 
@@ -68,7 +68,7 @@ This reduces the need for large labeled datasets and adapts to individual physio
 
 ---
 
-## [Dialogue Manager]()
+## [Dialogue Manager](https://github.com/prachi0711/Stress-Management-using-Active-Learning/blob/main/dialogue_manager/README.md)
 
 When uncertainty is high, the system does not issue a rigid alert.
 Instead, it triggers a natural language interaction powered by a Large Language Model (LLM).
